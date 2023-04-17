@@ -1,5 +1,5 @@
 ### Hi there, I'm Yxhuang 👋
-[![github](https://img.shields.io/badge/github-@yxhuang7538-black.svg)](https://github.com)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/yxhuang7538)
 [![csdn](https://img.shields.io/badge/csdn-@yxhuang7538-red.svg)](https://blog.csdn.net/weixin_41259211?spm=1000.2115.3001.5343)
 <!--
 **yxhuang7538/yxhuang7538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
