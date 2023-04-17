@@ -1,6 +1,6 @@
 ### Hi there, I'm Yxhuang 👋
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/yxhuang7538)
-[![csdn](https://badgen.net/badge/icon/csdn?icon=data:icons/csdn.svg&label)](https://blog.csdn.net/weixin_41259211?spm=1000.2115.3001.5343)
+[![csdn](https://badgen.net/badge/icon/csdn?icon=data:image/svg;base64,PHN2ZyB0PSIxNjgxNzAxNTIxMDUyIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE4MjIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiPjxwYXRoIGQ9Ik01MTIgMGMyODIuNzg0IDAgNTEyIDIyOS4yMTYgNTEyIDUxMnMtMjI5LjIxNiA1MTItNTEyIDUxMlMwIDc5NC43ODQgMCA1MTIgMjI5LjIxNiAwIDUxMiAweiBtMTg5Ljk1MiA3NTJsMTEuMi0xMDguMjI0Yy0zMS45MDQgOS41MzYtMTAwLjkyOCAxNi4xMjgtMTQ3LjcxMiAxNi4xMjgtMTM0LjQ2NCAwLTIwNS43MjgtNDcuMjk2LTE5NS4zMjgtMTQ2LjMwNCAxMS41ODQtMTEwLjY4OCAxMTMuMTUyLTE0NS42OTYgMjMyLjY0LTE0NS42OTYgNTQuNzg0IDAgMTIyLjQzMiA4LjggMTUxLjI5NiAxOC4zMzZMNzY4IDI3Mi43MDRDNzI0LjU0NCAyNjIuMjQgNjc4LjI3MiAyNTYgNTk5LjU4NCAyNTZjLTIwMy4yIDAtMzg4LjcwNCA5NC44OC00MDYuNCAyNjMuNDg4QzE3OC4zMzYgNjYwLjk2IDMwMy41ODQgNzY4IDUzNS42MTYgNzY4YzgwLjY3MiAwIDEzOC40NjQtNi40MzIgMTY2LjMzNi0xNnoiIGZpbGw9IiNlNmU2ZTYiIHAtaWQ9IjE4MjMiPjwvcGF0aD48L3N2Zz4=&label)](https://blog.csdn.net/weixin_41259211?spm=1000.2115.3001.5343)
 <!--
 **yxhuang7538/yxhuang7538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
